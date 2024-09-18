@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QTmL3F3haes=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zhens\\source\\repos\\NightTime\\NightTime\\NightTime.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zhens\\.nuget\\packages\\pathoschild.stardew.modbuildconfig\\4.1.1\\pathoschild.stardew.modbuildconfig.4.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

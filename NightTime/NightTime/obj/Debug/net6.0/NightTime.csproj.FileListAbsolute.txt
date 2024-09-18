@@ -1,0 +1,8 @@
+C:\Users\zhens\source\repos\NightTime\NightTime\bin\Debug\net6.0\NightTime.deps.json
+C:\Users\zhens\source\repos\NightTime\NightTime\bin\Debug\net6.0\NightTime.dll
+C:\Users\zhens\source\repos\NightTime\NightTime\obj\Debug\net6.0\NightTime.csproj.AssemblyReference.cache
+C:\Users\zhens\source\repos\NightTime\NightTime\obj\Debug\net6.0\NightTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zhens\source\repos\NightTime\NightTime\obj\Debug\net6.0\NightTime.AssemblyInfoInputs.cache
+C:\Users\zhens\source\repos\NightTime\NightTime\obj\Debug\net6.0\NightTime.AssemblyInfo.cs
+C:\Users\zhens\source\repos\NightTime\NightTime\obj\Debug\net6.0\NightTime.csproj.CoreCompileInputs.cache
+C:\Users\zhens\source\repos\NightTime\NightTime\obj\Debug\net6.0\NightTime.dll
