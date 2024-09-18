@@ -1,0 +1,12 @@
+﻿{
+	"Name": "Florist Mod",
+	"Author": "shinszin",
+	"Description": "This mod adds a florist NPC to your town :]",
+	"Version": "1.0.0",
+	"UniqueID": "Shin.Night",
+	"EntryDll": "NightTime.dll",
+	"MinimumApiVersion": "3.0.0",
+	"UpdateKeys": [
+		"Nexus: 123"
+	]
+}

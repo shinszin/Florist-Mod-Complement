@@ -1,0 +1,8 @@
+C:\Users\zhens\source\repos\ButterflySpawn\ButterflySpawn\bin\Debug\net6.0\ButterflySpawn.deps.json
+C:\Users\zhens\source\repos\ButterflySpawn\ButterflySpawn\bin\Debug\net6.0\ButterflySpawn.dll
+C:\Users\zhens\source\repos\ButterflySpawn\ButterflySpawn\obj\Debug\net6.0\ButterflySpawn.csproj.AssemblyReference.cache
+C:\Users\zhens\source\repos\ButterflySpawn\ButterflySpawn\obj\Debug\net6.0\ButterflySpawn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zhens\source\repos\ButterflySpawn\ButterflySpawn\obj\Debug\net6.0\ButterflySpawn.AssemblyInfoInputs.cache
+C:\Users\zhens\source\repos\ButterflySpawn\ButterflySpawn\obj\Debug\net6.0\ButterflySpawn.AssemblyInfo.cs
+C:\Users\zhens\source\repos\ButterflySpawn\ButterflySpawn\obj\Debug\net6.0\ButterflySpawn.csproj.CoreCompileInputs.cache
+C:\Users\zhens\source\repos\ButterflySpawn\ButterflySpawn\obj\Debug\net6.0\ButterflySpawn.dll
